@@ -11,5 +11,6 @@ This leads to O(1) run time. One thing we could do id to apply design patterns t
 
 # Refinements
 If time had permit, I would have added validations to all the input field. I would have declared enums for all defined protocols likd TCP, UDP.
-I could have also used Navigarble tree to reduce the time complexity to O(logN).
 
+# Teams
+I would like to join Platform team.
