@@ -1,4 +1,9 @@
-
+package com.illumio.dev;
+/**
+ * 
+ * @author Sricheta's computer
+ *
+ */
 public class NetworkRule {
 
 	 protected String direction;

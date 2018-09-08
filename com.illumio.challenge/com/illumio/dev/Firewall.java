@@ -1,9 +1,15 @@
+package com.illumio.dev;
 import java.io.BufferedReader;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.util.HashSet;
 import java.util.Set;
 
+/**
+ * 
+ * @author Sricheta's computer
+ *
+ */
 public class Firewall {
 
 	static Set<NetworkRule> rules = new HashSet<NetworkRule>();
